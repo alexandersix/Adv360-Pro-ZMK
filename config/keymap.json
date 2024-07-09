@@ -37,7 +37,7 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",    "&trans", "&trans", "&trans", "&trans",            "&trans",          "&trans",     "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",    "&trans", "&trans", "&trans", "&trans",            "&trans",          "&trans",     "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&kp LCTRL", "&trans",                                "&trans",          "&trans",     "&trans", "&kp LEFT", "&kp DOWN", "&kp UP", "&kp RIGHT", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&kp LCTRL", "&trans",                                "&trans",           "&none",     "&trans", "&kp LEFT", "&kp DOWN", "&kp UP", "&kp RIGHT", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",    "&trans", "&trans", "&trans", "&trans",            "&trans",          "&trans",     "&trans",   "&trans",   "&trans", "&trans",    "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",    "&trans", "&trans", "&trans", "&trans", "&kp C_VOLUME_DOWN", "&kp C_VOLUME_UP", "&kp C_MUTE",   "&trans",   "&trans"
     ]
